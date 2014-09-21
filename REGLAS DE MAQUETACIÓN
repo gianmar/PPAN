@@ -1,3 +1,28 @@
 REGLAS DE MAQUETACIÓN
 
 Tipografía principal: Oxygen (google fonts)
+
+Secciones principales:
+					  padding: 56px 0;
+
+Titutlares principales de secciones: 
+									 fuente:48px 
+									 primera parte: Light #4a4a4a
+									 segunda parte: Bold azul_pandero
+
+Wrap : 1000 px ---> Max width: 1000px , padding lateral: 30px;
+colores: azul_pandero : #0055a6;
+parrafos generales: 13px #8b8787;
+
+body: 16px;
+
+titulares: ems;
+
+
+
+
+
+
+
+
+
