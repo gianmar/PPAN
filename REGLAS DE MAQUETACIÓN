@@ -20,6 +20,29 @@ titulares: ems;
 
 a ver que sigue???
 
+El h2 a 20px
+El p a 10px #938f8f
+
+clases de peso de fuente:
+.fw-l
+.fw-n
+.fw-b
+
+clases para colores de fuente:
+
+.fc-01
+.fc-02
+.fc-03
+.fc-04
+.fc-05
+
+clases para tamanos
+.fz-xs
+.fz-sm
+.fz-m
+.fz-lg
+.fz-xl
+
 
 
 
