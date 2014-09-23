@@ -10,13 +10,22 @@ Titutlares principales de secciones:
 									 primera parte: Light #4a4a4a
 									 segunda parte: Bold azul_pandero
 
-Wrap : 1000 px ---> Max width: 1000px , padding lateral: 30px;
+Wrap : Max width: 1000px , padding : 0 30px;
 colores: azul_pandero : #0055a6;
 parrafos generales: 13px #8b8787;
 
 body: 16px;
 
 titulares: ems;
+
+
+--- MOBILE -------------
+
+Secciones principales:
+
+ .space{
+	padding: 28px 0;
+ }
 
 a ver que sigue???
 
@@ -42,6 +51,42 @@ clases para tamanos
 .fz-m
 .fz-lg
 .fz-xl
+
+flotar a la izquierda
+
+.left{
+	float:left;
+}
+
+flotar a la derecha
+
+.right{
+	float: right;
+}
+
+Salto de línea
+
+clearfix{
+	.clearfix:before,
+	.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+Quitar margen
+
+.nomargin{
+	margin 0!important
+} 
+
 
 
 
